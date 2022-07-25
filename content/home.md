@@ -1,19 +1,13 @@
 ---
-title: Awesome kitties
-date: 2019-03-17T19:31:20.591Z
-cats:
-    - description: "Maru is a Scottish Fold from Japan, and he loves boxes."
-      name: Maru (まる)
-    - description: Lil Bub is an American celebrity cat known for her unique appearance.
-      name: Lil Bub
-    - description: "Grumpy cat is an American celebrity cat known for her grumpy appearance."
-      name: Grumpy cat (Tardar Sauce)
-    - description: "This is test."
-      name: My test hej.
+title: "Notino website"
+date: 2022-07-25T12:09:11.931Z
+partners:
+    - description: "Kadernictvo pre zeny aj muzov"
+      name: Kadernictvo hair
+    - description: "Nechtove studiu xyz lorem"
+      name: Salon necht
 ---
 
-# Welcome to my awesome page about cats of the internet.
+# This is the title set from CMS
 
-## This page is built with NextJS, and content is managed in Netlify CMS
-
-This is test _nice_ yeah.
+This is the content set from CMS
